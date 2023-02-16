@@ -1,4 +1,4 @@
-# Proj_CompParalela-N12
+# Lab_CompParalela-N12
 
 # SO - 04N11
 
