@@ -1,6 +1,6 @@
-# Lab_CompParalela-N12
+# Lab_CompParalela
 
-# SO - 04N11
+# CP - 05N12
 
 ## Grupo:
 
