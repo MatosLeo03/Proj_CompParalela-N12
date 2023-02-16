@@ -1,0 +1,11 @@
+/* Introducao ao Git
+   Leonardo Matos, 32139561
+*/
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello, world!");
+    return 0;
+}
+  
