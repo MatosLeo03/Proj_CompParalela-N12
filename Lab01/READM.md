@@ -8,12 +8,12 @@ Para compilar o programa "Lab01a.c" é necessário utilizar o compilador C GCC e
 
 ### Como executar o programa
 
-Para executar o programa "Lab1a.c" devemos utilizar o seguinte comando o terminal: 
+Para executar o programa "Lab1a.c" vamos utilizar o seguinte comando no terminal: 
 
 `./Lab01a.out`
 
-### Como comprovar que pos resultados propostos foram alcançados
+### Comprovação de resuldado
 
-Ao executarmos o comando acima no terminal o programa deverá exibir no terminal essa mensagem:
+Ao executarmos o comando acima o programa deverá exibir no terminal a seguinte mensagem:
 
 > Hello World
