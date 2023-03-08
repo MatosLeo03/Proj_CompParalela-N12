@@ -8,5 +8,8 @@
 
 ## Laboratório:
 
-### Lab 01 - Introdução ao Git / Linux
+### Lab 01a - Introdução ao Git / Linux
 * Atividades "Lab01a - Hello World": Pasta **/Lab01**
+
+### Lab 01b - Introdução ao C
+* Atividades "Lab01b - Exercícios 1 ao 14": Pasta **/Lab01**
