@@ -1,3 +1,8 @@
+/*
+EXERCÍCIO DE CP – TURMA 05N12
+Leonardo Henrique de Oliveira Matos, TIA 32139561.
+Atividade Lab 01b 
+*/
 #include <stdio.h>
 
 int main() {
