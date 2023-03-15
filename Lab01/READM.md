@@ -1,3 +1,24 @@
+# Exercícios LAB 1A:
+
+### Passos de como compilar o programa em C
+
+Para compilar o programas da pasta "Lab01a" é necessário utilizar o compilador C GCC e o seguinte comando no terminal:
+
+**Exemplo:** `gcc Lab01a.c -o Exercicio-1.out`
+
+### Como executar o programa
+
+Para executar o programa "Lab1a.c" vamos utilizar o seguinte comando no terminal: 
+
+`./Lab01a-1.out`
+
+### Comprovação de resuldado
+
+Ao executarmos o comando acima o programa deverá exibir no terminal a resposta do exercício:
+
+> Hello World
+
+
 # Exercícios LAB 1B:
 
 ### Passos de como compilar o programa em C
@@ -16,4 +37,4 @@ Para executar o programa "Lab1a.c" vamos utilizar o seguinte comando no terminal
 
 Ao executarmos o comando acima o programa deverá exibir no terminal a resposta do exercício:
 
-**Exemplo:** > Exemplo
+> Exemplo
