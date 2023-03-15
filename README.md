@@ -13,3 +13,6 @@
 
 ### Lab 01b - Introdução ao C
 * Atividades "Lab01b - Exercícios 1 ao 14": Pasta **/Lab01/Lab01b**
+
+### Lab 02 - Processos
+* Atividades "Lab02 - Exercício " calculoFatorial": Pasta **/Lab02**
