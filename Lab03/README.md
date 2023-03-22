@@ -2,7 +2,7 @@
 
 ### Passos de como compilar o programa em C
 
-Para compilar o programas da pasta "Lab02" é necessário utilizar o compilador C GCC e o seguinte comando no terminal:
+Para compilar o programas da pasta "Lab03" é necessário utilizar o compilador C GCC e o seguinte comando no terminal:
 
 `gcc Lab03.c -o Exercicio-Memória.out`
 
