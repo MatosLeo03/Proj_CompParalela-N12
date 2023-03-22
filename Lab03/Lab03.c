@@ -29,7 +29,7 @@ int main()
 
     printf("Pai: valor inicial = %d\n", *data);
 
-    if ((pid = fork()) < 0) {
+    if ((pid = fork()) < 0) {// cria um novo processo
         perror("fork");
         exit(1);
     }
