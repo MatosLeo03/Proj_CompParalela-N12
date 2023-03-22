@@ -16,3 +16,6 @@
 
 ### Lab 02 - Processos
 * Atividades "Lab02 - Calculo Fatorial": Pasta **/Lab02**
+
+### Lab 03 - Memória
+* Atividades "Lab03 - Memória Compartilhada": Pasta **/Lab03**
