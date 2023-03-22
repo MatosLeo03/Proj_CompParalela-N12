@@ -16,11 +16,11 @@ Para executar o programa "Lab03.c" vamos utilizar o seguinte comando no terminal
 
 Ao executarmos o comando acima o programa deverá exibir no terminal a resposta do exercício:
 
-> Pai: valor inicial = 5
+> Pai: valor inicial = 5`
 
-> Valor inicial do filho = 5
+> Valor inicial do filho = 5`
 
-> Novo valor do filho = 7
+> Novo valor do filho = 7`
 
-> Pai: novo valor = 28
+> Pai: novo valor = 28`
 
