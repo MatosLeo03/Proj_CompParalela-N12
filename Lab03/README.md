@@ -14,7 +14,9 @@ Para executar o programa "Lab03.c" vamos utilizar o seguinte comando no terminal
 
 ### Comprovação de resuldado
 
-Ao executarmos o comando acima o programa deverá exibir no terminal a resposta do exercício:
+O programa na linguagem C consiste em criar um processo pai que estabelece uma região de memória compartilhada, associa a região de memória compartilhada ao processo pai, define um valor inicial para a variável compartilhada e gera um processo filho. O processo filho modifica o valor da variável compartilhada e  aguarda o término. Por fim, o processo pai atualiza o valor da variável compartilhada, desassocia e remove a região de memória compartilhada.
+
+Dessa maneira, ao executarmos o comando acima o programa deverá exibir no terminal a resposta do exercício:
 
 > Pai: valor inicial = 5`
 
