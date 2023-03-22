@@ -24,5 +24,5 @@ Dessa maneira, ao executarmos o comando acima o programa deverá exibir no termi
 
 > Novo valor do filho = 7`
 
-> Pai: novo valor = 28`
+> Novo valor do pai = 28`
 
