@@ -2,7 +2,7 @@
 
 ### Passos de como compilar o programa em C
 
-Para compilar os programas da pasta "Lab04" é necessário utilizar o compilador C GCC e o seguinte comando no terminal:
+Para compilar o programa da pasta "Lab04" é necessário utilizar o compilador C GCC e o seguinte comando no terminal:
 
 `gcc Lab04.c -o Lab04.out`
 
