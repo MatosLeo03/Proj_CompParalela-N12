@@ -1,3 +1,5 @@
+//Esse código implementa a multiplicação de matrizes utilizando memória compartilhada, porém sem otimização
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/ipc.h>
