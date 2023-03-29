@@ -19,3 +19,6 @@
 
 ### Lab 03 - Memória
 * Atividades "Lab03 - Memória Compartilhada": Pasta **/Lab03**
+
+### Lab 04 - Matrizes
+* Atividades "Lab04 - Matrizes": Pasta **/Lab04**
