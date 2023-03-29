@@ -18,7 +18,7 @@ Este código implementa a multiplicação de matrizes utilizando memória compar
 
 No final de execução, considerando matrizes de tamanho 1000 cada, obtivemos o resultado de *25.789s* para a conclusão das multiplicações.
 
-![Screenshot from 2023-03-29 20-45-39](https://user-images.githubusercontent.com/84693356/228692359-b1cdd43b-faad-4c03-b856-2100ae149b75.png)
+![Captura-TesteMatriz](https://user-images.githubusercontent.com/84693356/228692660-2ffeb550-4816-4194-909b-ddc4fb6e989e.PNG)
 
 Porém ao tentar executar utilazando os métodos de compilação propostos como *-o0* e *-03* e programa apresentou uma falha e não foi possível testá-lo.
 
