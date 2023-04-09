@@ -22,3 +22,6 @@
 
 ### Lab 04 - Matrizes
 * Atividades "Lab04 - Matrizes": Pasta **/Lab04**
+
+### Lab 05 - Pthreads
+* Atividades "Lab05 - Pthreads": Pasta **/Lab05**
