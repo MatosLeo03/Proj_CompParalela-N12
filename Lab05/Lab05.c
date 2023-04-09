@@ -1,3 +1,27 @@
+#include <pthread.h>
+
+int m, n; // Dimensões da matriz A
+double **A; // Matriz A
+double *x, *y; // Vetores x e y
+int threads_count; // Número de threads
+
+int main(int argc, char* argv[]) {
+    long thread;
+    pthread_t* thread_handles;
+
+    thread_handles = malloc(threads_count*sizeof(pthread_t));
+    for (thread = 0; thread < threads_count; thread++) {
+        pthread_create(&thread_handles[thread], NULL,
+            Pth_mat_vect, (void*) thread);
+    }
+    for (thread = 0; thread < threads_count; thread++) {
+        pthread_join(thread_handles[thread], NULL);
+    }
+    free(thread_handles);
+    
+    return 0;
+}
+
 void *Pth_mat_vect (void* rank){
 long my_rank = (long) rank;
 int i, j;
