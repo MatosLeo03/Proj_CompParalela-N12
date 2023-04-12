@@ -10,7 +10,7 @@ Para compilar o programa da pasta "Lab05" é necessário utilizar o compilador C
 
 Para executar o programa "Lab05.c" vamos utilizar o seguinte comando no terminal: 
 
-`./Lab05.out`
+`./Lab05`
 
 ### Comprovação de resultado
 
