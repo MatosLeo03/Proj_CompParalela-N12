@@ -14,5 +14,7 @@ Para executar o programa "Lab06.c" vamos utilizar o seguinte comando no terminal
 
 ### Comprovação de resultado
 
+Esse código realiza uma aproximação numérica para calcular a integral de uma função usando a regra do trapézio em juntamente da biblioteca OpenMP. Ele solicita a entrada do intervalo, o número de trapézios e usa múltiplas threads (por padrão 4) para calcular a integral aproximada. O resultado é exibido na saída.
+
 ![image](https://user-images.githubusercontent.com/84693356/233215573-25d4dd52-7743-42ab-82f4-4e5a0068df65.png)
 
