@@ -24,7 +24,7 @@ int main() {
     int n;                      
     int thread_count;
     
-    printf("A = valor inicial\nB = valor final\nN = número de trapézios
+    printf("A = valor inicial\nB = valor final\nN = número de trapézios\n");
     printf("Ínserir valores de *a*, *b* e *n* \n");
     if (scanf("%lf %lf %d", &a, &b, &n) != 3 || n <= 0) {
         printf("Erro na inserção.\n");
