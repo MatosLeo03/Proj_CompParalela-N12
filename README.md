@@ -25,3 +25,6 @@
 
 ### Lab 05 - Pthreads
 * Atividades "Lab05 - Pthreads": Pasta **/Lab05**
+
+### Lab 06 - OpenMP
+* Atividades "Lab06 - OpenMP": Pasta **/Lab06**
