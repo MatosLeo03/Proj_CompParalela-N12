@@ -24,7 +24,7 @@ int main() {
     int n;                      
     int thread_count;
     
-    printf("A = valor inicial\nB = valor final\nN = número de trapézios\n");
+    printf("A = valor inicial\nB = valor final\nN = número de trapézios\n\n");
     printf("Ínserir valores de *a*, *b* e *n* \n");
     if (scanf("%lf %lf %d", &a, &b, &n) != 3 || n <= 0) {
         printf("Erro na inserção.\n");
@@ -47,8 +47,8 @@ int main() {
         global_result += my_result;
     }
 
-    printf("Com n = %d trapézios", n);
-    printf("O valor aproximado da integral entreo %f e %f = %.14e\n", a, b, global_result);
+    printf("Com n = %d trapézios\n", n);
+    printf("O valor aproximado da integral entre %f e %f = %.14e\n", a, b, global_result);
 
     return 0;
 }
