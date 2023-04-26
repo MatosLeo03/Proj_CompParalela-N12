@@ -42,8 +42,8 @@ Os métodos "critical" e "reduction" são fundamentais no OpenMP para garantir a
 
 |Método| 1 vCPU | 4 vCPU |
 |--------| -------- | -------- |
-| Critical | 7,813 | 4,726 |
-| Reduction | 8,641 | 5,087 |
+| Critical | 7,813s | 4,726s |
+| Reduction | 8,641s | 5,087s |
 
 ![image](https://user-images.githubusercontent.com/84693356/234723191-fdfd51fb-6feb-433d-a9cc-ec468edf0f0e.png)
 
