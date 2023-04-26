@@ -49,4 +49,4 @@ Os métodos "critical" e "reduction" são fundamentais no OpenMP para garantir a
 
 ![image](https://user-images.githubusercontent.com/84693356/234723191-fdfd51fb-6feb-433d-a9cc-ec468edf0f0e.png)
 
-_Foram utilizados os dados de tempo de execução do algoritmo da Regra dos Trapézios_
+*_Foram utilizados os dados de tempo de execução do algoritmo da Regra dos Trapézios_
