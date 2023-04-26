@@ -1,5 +1,7 @@
 # Exercícios LAB 06:
 
+## LAB 06 - PARTE I
+
 ### Passos de como compilar o programa em C
 
 Para compilar o programa da pasta "Lab06" é necessário utilizar o compilador C GCC e o seguinte comando no terminal:
