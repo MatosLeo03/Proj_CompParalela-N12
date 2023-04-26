@@ -1,3 +1,6 @@
+/*No códigoa abaixo, o trecho #pragma omp critical é utilizada para proteger a operação de soma da variável my_result na função Trap() 
+e da variável global_result na função main().
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
