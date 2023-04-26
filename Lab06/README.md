@@ -40,7 +40,7 @@ Os métodos "critical" e "reduction" são fundamentais no OpenMP para garantir a
 
 ### Gráfico das Comparações
 
-|--------| 1 vCPU | 4 vCPU |
+|Método| 1 vCPU | 4 vCPU |
 |--------| -------- | -------- |
 | Critical | 7,813 | 4,726 |
 | Reduction | 8,641 | 5,087 |
