@@ -37,3 +37,6 @@ Para executar o programa "Lab06.c" vamos utilizar o seguinte comando no terminal
 ### Comprovação de resultado
 
 Os métodos "critical" e "reduction" são fundamentais no OpenMP para garantir a precisão e a performance de programas paralelos. A cláusula "critical" assegura a exclusão mútua de regiões críticas, evitando conflitos no acesso a recursos compartilhados. Enquanto isso, a cláusula "reduction" permite que cada thread calcule sua própria parcela em uma variável compartilhada, agilizando a soma final. A quantidade de processadores (e threads) afeta a velocidade de execução, já que aumentando a quantidade, é possível paralelizar mais tarefas e diminuir o tempo de execução.
+
+![image](https://user-images.githubusercontent.com/84693356/234723191-fdfd51fb-6feb-433d-a9cc-ec468edf0f0e.png)
+
