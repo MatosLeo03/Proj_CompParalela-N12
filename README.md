@@ -29,4 +29,3 @@
 ### Lab 06 - OpenMP
 * Atividades "Lab06 - OpenMP": Pasta **/Lab06**
 
-* Atividades "Lab06 Parte 2 - OpenMP": Pasta **/Lab06_Parte2**
