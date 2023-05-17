@@ -29,3 +29,6 @@
 ### Lab 06 - OpenMP
 * Atividades "Lab06 - OpenMP": Pasta **/Lab06**
 
+### Lab 07 - OpenACC
+* Atividades "Lab07 - OpenACC": Pasta **/Lab07**
+
